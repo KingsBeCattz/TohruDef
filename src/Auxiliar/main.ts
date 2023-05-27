@@ -1,4 +1,4 @@
-import {Client,Collection,Colors,Message,GuildMember,MessageComponentInteraction,Guild,User, Channel, BaseGuildTextChannel, ButtonBuilder} from 'discord.js'
+import {Client,Collection,Colors,Message,GuildMember,ChatInputCommandInteraction,Guild,User, Channel, BaseGuildTextChannel, ButtonBuilder} from 'discord.js'
 import { ActionRowBuilder } from '@discordjs/builders'
 import axios, {AxiosRequestConfig} from 'axios'
 import { QuickDB } from 'quick.db'
